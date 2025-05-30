@@ -11,7 +11,7 @@ public class Assignment5_ExcelSheet {
 		
 		
 		
-		//student1data
+		//student1data list
 		
 		Map<String, String> studentdata1 = new HashMap<>();
 		studentdata1.put("Name", "John Doe");

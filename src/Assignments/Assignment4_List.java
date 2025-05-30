@@ -13,7 +13,7 @@ public class Assignment4_List {
 	
 	{
 	/*1. Create Lists with area of top 5 largest cities. Print the total area of the 3rd and 4th
-		cities combined. */
+		cities combined. .*/
 		List < Integer> area = new ArrayList <Integer> ();
 		area.add(30000);
 		area.add(20000);
